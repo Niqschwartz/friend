@@ -1,7 +1,7 @@
 var friends = [
     {
         "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://cdn3.volusion.com/exhqe.vwkag/v/vspfiles/photos/O-OFSSPS564-2.jpg?v-cache=1475070982",
         "scores":[
             5,
             1,
@@ -17,7 +17,7 @@ var friends = [
       },
       {
         "name":"George",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://cdn3.volusion.com/exhqe.vwkag/v/vspfiles/photos/O-OFSSPS564-2.jpg?v-cache=1475070982",
         "scores":[
             2,
             4,
@@ -33,7 +33,7 @@ var friends = [
       },
       {
         "name":"Holly",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://cdn3.volusion.com/exhqe.vwkag/v/vspfiles/photos/O-OFSSPS564-2.jpg?v-cache=1475070982",
         "scores":[
             2,
             1,
@@ -49,7 +49,7 @@ var friends = [
       },
       {
         "name":"Martha",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://cdn3.volusion.com/exhqe.vwkag/v/vspfiles/photos/O-OFSSPS564-2.jpg?v-cache=1475070982",
         "scores":[
             5,
             4,
